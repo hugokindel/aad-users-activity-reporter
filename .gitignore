@@ -1,0 +1,6 @@
+.DS_Store
+*.json
+*.csv
+!examples
+!examples/config.json
+.idea/
